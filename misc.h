@@ -1,0 +1,1 @@
+char *fixSlashes (char *string);
